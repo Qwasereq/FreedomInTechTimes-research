@@ -1,0 +1,7 @@
+Okno 2 tło - 6ec0ee + cbedff
+Okno 3 tło - b4fbff + ffffff
+Okno 3 tło na napis - d8f7fe
+Okno 3 koła - na dole: 1990ff ze zmniejszonym kryciem do 24%, na górze: 4ba2ec ze zmniejszonym kryciem do 18%
+Okno 4 tło - 1c79ae + 73a3be + 97d0f7
+Okno 4 kafelek 1 : 459bc5, kafelek 2: 000baf, kafelek 3: 0062d0, kafelek 4: 469dc1, kafelek 5: 4dbcd9, kafelek 6: 38acf9
+Okno 5 tło - 27bfea + 59c7d7 + 9fd4e7 z kryciem 39%
